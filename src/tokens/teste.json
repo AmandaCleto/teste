@@ -1,0 +1,164 @@
+{
+  "sizes": {
+    "40": {
+      "category": "size",
+      "exportKey": "size",
+      "value": 40,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "60": {
+      "category": "size",
+      "exportKey": "size",
+      "value": 60,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "80": {
+      "category": "size",
+      "exportKey": "size",
+      "value": 80,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "plain token": {
+      "category": "size",
+      "exportKey": "size",
+      "value": 200,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "token in frame": {
+      "category": "size",
+      "exportKey": "size",
+      "value": 200,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "token in group": {
+      "category": "size",
+      "exportKey": "size",
+      "value": 200,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "in variant 60": {
+      "category": "size",
+      "exportKey": "size",
+      "value": 60,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "in variant 90": {
+      "category": "size",
+      "exportKey": "size",
+      "value": 90,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "in variant 120": {
+      "category": "size",
+      "exportKey": "size",
+      "value": 120,
+      "type": "number",
+      "unit": "pixel"
+    }
+  },
+  "breakpoints": {
+    "lg": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 1280,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "sm": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 768,
+      "type": "number",
+      "unit": "pixel"
+    },
+    "md": {
+      "category": "breakpoint",
+      "exportKey": "breakpoint",
+      "value": 1024,
+      "type": "number",
+      "unit": "pixel"
+    }
+  },
+  "spacing": {
+    "10": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "right": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "bottom": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "left": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel"
+      }
+    },
+    "mixed": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "right": {
+        "value": 20,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "bottom": {
+        "value": 30,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "left": {
+        "value": 20,
+        "type": "number",
+        "unit": "pixel"
+      }
+    },
+    "top": {
+      "category": "spacing",
+      "exportKey": "spacing",
+      "top": {
+        "value": 10,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "right": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "bottom": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      },
+      "left": {
+        "value": 0,
+        "type": "number",
+        "unit": "pixel"
+      }
+    }
+  }
+}
